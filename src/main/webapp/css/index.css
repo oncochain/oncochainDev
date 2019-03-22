@@ -1,11 +1,14 @@
-.menu {
+.left {
     width: 50%;
+    height: 100%;
     float: left;
     padding: 15px;
 }
 
-.main {
+.right {
     width: 50%;
+    height: 100%;
     float: left;
     padding: 15px;
+    background-color: whitesmoke;
 }
